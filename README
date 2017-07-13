@@ -1,0 +1,15 @@
+Restaurant Application
+
+AngularJs application developed in the Cousera Course: Front End Javascript Frameworks: AngularJS
+
+Description
+
+The files provided here were used for completing the course programming assignments. It has code to use both grunt and gulp. Gulp may be a better build.
+
+Setup:
+Compile the folder 'Konkani' using gulp. Copy the files from the dist folder to json-server >> public. 
+db.json contains data needed for the application. Feel free to change the data in this file.
+In your command prompt, go to the json-server folder and type : "json-server --watch db.json". 
+This should start up a server at port number 3000 on your machine. 
+Now type:   http://localhost:3000/ in your browser to access the application.
+
